@@ -26,9 +26,8 @@ class BankAccount:
 # Creating an instance of BankAccount
 account = BankAccount("123456", 1000)
 
-# Accessing private attributes and methods using public methods
 print("Account Number:", account.get_account_number())  # Output: Account Number: 123456
-print("Current Balance:", account.get_balance())  # Output: Current Balance: 1000
+print("Current Balance:", account.get_balance()) 
 
 account.deposit(500)  
 account.withdraw(200)  
