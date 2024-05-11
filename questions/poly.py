@@ -26,7 +26,7 @@ class BankAccount:
 # Creating an instance of BankAccount
 account = BankAccount("123456", 1000)
 
-print("Account Number:", account.get_account_number())  # Output: Account Number: 123456
+print("Account Number:", account.get_account_number())  
 print("Current Balance:", account.get_balance()) 
 
 account.deposit(500)  
