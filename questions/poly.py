@@ -33,4 +33,4 @@ print("Current Balance:", account.get_balance())  # Output: Current Balance: 100
 
 account.deposit(500)  # Output: Deposited $500. New balance: $1500
 account.withdraw(200)  # Output: Withdrew $200. New balance: $1300
-account.withdraw(2000)  # Output: Invalid withdrawal amount.
+account.withdraw(2000)  
