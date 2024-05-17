@@ -23,7 +23,7 @@ class BankAccount:
     def get_account_number(self):
         return self.__account_number
 
-# Creating an instance of BankAccount
+
 account = BankAccount("123456", 1000)
 
 
