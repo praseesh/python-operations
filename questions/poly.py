@@ -16,6 +16,7 @@ class BankAccount:
             self.__balance -= amount
             print(f"Withdrew ${amount}. New balance: ${self.__balance}")
             
+            
         else:
             print("Invalid withdrawal amount.")
     def get_balance(self):
