@@ -1,7 +1,7 @@
 class BankAccount:
     def __init__(self, account_number, balance=0):
         self.__account_number = account_number  # private attribute
-        self.__balance = balance  # private attribute
+        self.__balance = balance  
 
     def deposit(self, amount):
         if amount > 0:
