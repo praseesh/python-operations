@@ -12,7 +12,7 @@ list1.insert(2,"new")
 # print(list1)
 
 list1.remove(10)
-# print(list1)
+
 
 set1 = {1,2,3,4}
 set2 = {4,6,7,8}
