@@ -13,7 +13,6 @@ list1.insert(2,"new")
 
 list1.remove(10)
 
-
 set1 = {1,2,3,4}
 set2 = {4,6,7,8}
 
