@@ -9,7 +9,6 @@ print (dict1)
 list1 = [1,2,4,5]
 
 list1.insert(2,"new") 
-
 list1.remove(10)
 
 set1 = {1,2,3,4}
