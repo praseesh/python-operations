@@ -17,7 +17,6 @@ for i, j in dict1.items():
 a = lambda x: x+5
 
 print(a(5))
-    
 
 class Abc:
 
