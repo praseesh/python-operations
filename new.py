@@ -15,7 +15,6 @@ set2 = {4,6,7,8}
 print(set1.union(set2))
 for i, j in dict1.items():
     print(i, j)
- 
 a = lambda x: x+5
 
 print(a(5))
