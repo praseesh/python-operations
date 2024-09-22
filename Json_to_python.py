@@ -1,5 +1,3 @@
-# Convert from JSON to Python:
-
 
 import json
 
