@@ -8,5 +8,4 @@ num_pad = (
 for i in num_pad:
     for j in i:
         print(j, end=' ')
-        
     print()
