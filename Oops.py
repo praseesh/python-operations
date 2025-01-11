@@ -7,6 +7,7 @@ class Animal:
 class Cat(Animal):
     def walk(self):
         print(f"i am {self.name}.I have {self.age}year old. I can Walk")
+
 x = Animal("Jimmy", 7)
 y = Cat("jack", 5)
 x.eat()
